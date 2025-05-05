@@ -8,6 +8,8 @@
 
 This project involved enhancing a pre-built GUI framework by implementing key backend functionalities and image transformation tools. Users can open, edit, and save `.ppm` images, and apply a variety of visual effects.
 
+> 🧑‍🤝‍🧑 This project was completed in collaboration with **two other students** as part of a team assignment for **CSCI-C212: Introduction to Software Systems** at Indiana University during Spring 2025.
+
 ---
 
 ## 🎯 Features
@@ -20,9 +22,6 @@ This project involved enhancing a pre-built GUI framework by implementing key ba
   - ↔️ Mirror (Horizontal & Vertical)
   - 📐 Rotate (Clockwise & Counter-clockwise)
   - 🧱 Repeat (Tile Horizontally or Vertically)
-- Integrate with an **external API** using HTTP GET
-- Parse and handle **JSON** responses
-- All operations integrated into a GUI interface
 
 ---
 
@@ -32,8 +31,4 @@ This project involved enhancing a pre-built GUI framework by implementing key ba
 - **Swing GUI Framework** (pre-built)
 - **JSON Parsing**
 - **Git & GitHub**
-
----
-
-## 📂 Project Structure
 
