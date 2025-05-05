@@ -8,7 +8,7 @@
 
 This project involved enhancing a pre-built GUI framework by implementing key backend functionalities and image transformation tools. Users can open, edit, and save `.ppm` images, and apply a variety of visual effects.
 
-> 🧑‍🤝‍🧑 This project was completed in collaboration with **two other students** as part of a team assignment for **CSCI-C212: Introduction to Software Systems** at Indiana University during Spring 2025.
+>  This project was completed in collaboration with **two other students** as part of a mini project for **CSCI-C212: Introduction to Software Systems** at Indiana University during Spring 2025.
 
 ---
 
