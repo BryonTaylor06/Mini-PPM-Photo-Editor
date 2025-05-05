@@ -16,12 +16,12 @@ This project involved enhancing a pre-built GUI framework by implementing key ba
 
 - Read and write images in **PPM format**
 - Apply basic image operations:
-  - ✅ Remove Red Channel
-  - 🌫️ Convert to Grayscale
-  - 🔁 Invert Colors
-  - ↔️ Mirror (Horizontal & Vertical)
-  - 📐 Rotate (Clockwise & Counter-clockwise)
-  - 🧱 Repeat (Tile Horizontally or Vertically)
+  - Remove Red Channel
+  - Convert to Grayscale
+  - Invert Colors
+  - Mirror (Horizontal & Vertical)
+  - Rotate (Clockwise & Counter-clockwise)
+  - Repeat (Tile Horizontally or Vertically)
 
 ---
 
@@ -29,6 +29,6 @@ This project involved enhancing a pre-built GUI framework by implementing key ba
 
 - **Java** (BufferedImage, Color, File I/O)
 - **Swing GUI Framework** (pre-built)
-- **JSON Parsing**
+- **JSON Parsing** (GSON)
 - **Git & GitHub**
 
